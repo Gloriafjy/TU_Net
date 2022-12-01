@@ -8,7 +8,7 @@ Clone this repository and install the dependencies. We recommend using
 a fresh Conda environment.
 
 ```bash
-git clone https://github.com/Gloriafjy/Causal_Speech_Enhancement
+git clone https://github.com/Gloriafjy/TU_Net
 cd code
 pip install -r requirements_cuda.txt
 ```
